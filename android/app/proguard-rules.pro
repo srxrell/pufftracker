@@ -1,0 +1,12 @@
+-keep class androidx.work.** { *; }
+-keep class androidx.startup.** { *; }
+-keep class * extends androidx.room.RoomDatabase { *; }
+-keep class androidx.room.** { *; }
+-dontwarn androidx.work.**
+-dontwarn androidx.startup.**
+-dontwarn androidx.room.**
+
+-keep class com.google.mlkit.** { *; }
+-keep class com.google.android.gms.** { *; }
+-dontwarn com.google.mlkit.**
+-dontwarn com.google.android.gms.**
