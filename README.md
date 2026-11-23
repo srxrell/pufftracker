@@ -1,4 +1,4 @@
-# PuffTrack — AI Puff Counter & Session Tracker
+# <img src="./ic_launcher.png" style="border-radius: 10px;"/> PuffTrack — AI Puff Counter & Session Tracker
 
 <p align="center">
   <strong>Hands-free puff tracking powered by on-device computer vision, an interactive AI coach, and real-time 1v1 live sessions.</strong>
