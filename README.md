@@ -1,10 +1,8 @@
-# <img src="./ic_launcher.png" style="border-radius: 10px;"/> PuffTrack — AI Puff Counter & Session Tracker
+# <img src="./ic_launcher.png" width="38" height="38" align="absmiddle" alt="PuffTrack Icon" /> PuffTrack — AI Puff Counter & Session Tracker
 
-<p align="center">
-  <strong>Hands-free puff tracking powered by on-device computer vision, an interactive AI coach, and real-time 1v1 live sessions.</strong>
-</p>
+**Hands-free puff tracking powered by on-device computer vision, an interactive AI coach, and real-time 1v1 live sessions.**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/AI-On--Device%20CV-F75E5E?style=flat-square" alt="On-Device CV" />
@@ -32,8 +30,8 @@
 ## Screenshots
 
 | Home (Light) | Leaderboard | Settings | Themes & Icons | Home (Dark) |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="/screenshots/1.jpg" width="180" alt="Home Screen Light" /> | <img src="/screenshots/2.jpg" width="180" alt="Leaderboard" /> | <img src="/screenshots/3.jpg" width="180" alt="Settings" /> | <img src="/screenshots/4.jpg" width="180" alt="Style and Colors" /> | <img src="/screenshots/5.jpg" width="180" alt="Home Screen Dark" /> |
+| :--- | :--- | :--- | :--- | :--- |
+| <img src="./screenshots/1.jpg" width="180" alt="Home Screen Light" /> | <img src="./screenshots/2.jpg" width="180" alt="Leaderboard" /> | <img src="./screenshots/3.jpg" width="180" alt="Settings" /> | <img src="./screenshots/4.jpg" width="180" alt="Style and Colors" /> | <img src="./screenshots/5.jpg" width="180" alt="Home Screen Dark" /> |
 
 ---
 
@@ -49,10 +47,9 @@
 
 ## Privacy & Compliance
 
-<b>Age Restriction:</b> Intended strictly for adults (18+) with an upfront age-gate confirmation.
+- **Age Restriction:** Intended strictly for adults (`18+`) with an upfront age-gate confirmation.
+- **Local Camera Processing:** Camera frames are analyzed transiently in RAM for puff detection and are immediately discarded.
+- **Community Safety:** Live rooms require explicit community guidelines acceptance and include instant one-tap user reporting and blocking.
 
-<b>Local Camera Processing:</b> Camera frames are analyzed transiently in RAM for puff detection and are immediately discarded.
-
-<b>Community Safety:</b> Live rooms require explicit community guidelines acceptance and include instant one-tap user reporting and blocking.
-
-# ! PuffTrack is a personal habit and session tracking utility built for informational and entertainment purposes. It does not promote or encourage smoking or vaping !
+> [!IMPORTANT]
+> PuffTrack is a personal habit and session tracking utility built for informational and entertainment purposes. It does not promote or encourage smoking or vaping.
