@@ -54,3 +54,5 @@
 <b>Local Camera Processing:</b> Camera frames are analyzed transiently in RAM for puff detection and are immediately discarded.
 
 <b>Community Safety:</b> Live rooms require explicit community guidelines acceptance and include instant one-tap user reporting and blocking.
+
+# ! PuffTrack is a personal habit and session tracking utility built for informational and entertainment purposes. It does not promote or encourage smoking or vaping !
